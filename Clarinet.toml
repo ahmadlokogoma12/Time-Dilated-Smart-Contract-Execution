@@ -14,6 +14,11 @@ epoch = 2.5
 path = 'contracts/relativistic-time-tracking.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.time-dilation-arbitrage]
+path = 'contracts/time-dilation-arbitrage.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
