@@ -60,6 +60,11 @@ plan:
     - id: 0
       transactions:
         - emulated-contract-publish:
+            contract-name: gravity-well-computation
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/gravity-well-computation.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: relativistic-time-tracking
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/relativistic-time-tracking.clar
