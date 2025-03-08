@@ -13,3 +13,5 @@ V
 &tests/gravity-well-computation.test.ts,6/c/6c980aab3ae141d5723586cdc6c79ad273fd348f
 V
 &contracts/time-dilation-arbitrage.clar,3/1/31061fc85b12c5ee1801ed52da2db8eb002f21f5
+U
+%tests/time-dilation-arbitrage.test.ts,c/e/cedcec0c2dec97f5e601f691310635d28ed608ea
