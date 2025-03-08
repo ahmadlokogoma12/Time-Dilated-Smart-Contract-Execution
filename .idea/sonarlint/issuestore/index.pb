@@ -7,3 +7,5 @@ Y
 .gitattributes,2/4/24139dae656713ba861751fb2c2ac38839349a7a
 X
 (tests/relativistic-time-tracking.test.ts,5/c/5caabe3ddea9871188ff3fe7ed3b2cee2a9c5e57
+W
+'contracts/gravity-well-computation.clar,2/a/2a981976400bc582cb6beb490e4fe751cbf498ba
